@@ -1,10 +1,14 @@
 ## Olá!! Bem-vindo(@) ao meu perfil 🍁
 
 
-- 💼 Recentemente não trabalho, porém já faço mini-projetos com as coisas que eu estudo
-- 📚 Estudando HTML5 e CSS3, JavaScript e Design
-- 💬 0 problemas em vir conversar comigo!
-- 🍎 Ele/Dele
+- 💼 Recentemente não trabalho, porém já faço mini-projetos com as coisas que eu estudo<br>
+     *I don't work recently, but I already do mini-projects with something I'm studying*🎋
+- 📚 Estudando HTML5 e CSS3, JavaScript e Design <br>
+     *Studying HTML5 and CSS3, JavaScript and Design*
+- 💬 0 problemas em vir conversar comigo! <br>
+     *You can come to talk with me anytime!* 🍇
+- 🍎 Ele/Dele <br>
+     *He/His* 🐨
 
 <div align="center">
 
