@@ -3,8 +3,8 @@
 
 - 💼 Recentemente não trabalho, porém já faço mini-projetos com as coisas que eu estudo<br>
      *I don't work recently, but I already do mini-projects with something I'm studying*🎋
-- 📚 Estudando HTML5 e CSS3, JavaScript e Design <br>
-     *Studying HTML5 and CSS3, JavaScript and Design*
+- 📚 Estudando JavaScript e Laravel <br>
+     *Studying JavaScript and Laravel*
 - 💬 0 problemas em vir conversar comigo! <br>
      *You can come to talk with me anytime!* 🍇
 - 🍎 Ele/Dele <br>
@@ -28,7 +28,7 @@
 
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-
+ <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
 
 
 
@@ -47,8 +47,6 @@
 <div>
    <a href="https://instagram.com/e.milson_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:emilsonfilhocontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://m.facebook.com/emilsom.filho" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://tiktok.com/@emih.gstzff" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 
-### (Obs.: Minhas redes socias são *bem* aleatórias)
+
 </div>
