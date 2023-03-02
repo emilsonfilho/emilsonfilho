@@ -7,9 +7,6 @@
      *Studying JavaScript and Laravel*
 - 💬 0 problemas em vir conversar comigo! <br>
      *You can come to talk with me anytime!* 🍇
-- 🍎 Ele/Dele <br>
-     *He/His* 🐨
-
 <div align="center">
 
   <a href="https://github.com/emilsonfilho">
