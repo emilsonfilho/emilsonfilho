@@ -18,14 +18,43 @@
 </div>
   <div style="display: inline_block"><br>
 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
- 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      
+ <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      
+ <img align="center" alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
+      
+ <img align="center" alt="jQuery" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
+      
+ <img align="center" alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+      
+ <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
- <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+ <img align="center" alt="PHP" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+      
+ <img align="center" alt="Laravel" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"/>
+      
+ <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+      
+ <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+      
+ <img align="center" alt="Node.js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+      
+ <img align="center" alt="npm" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
+      
+ <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+      
+ <img align="center" alt="GitHub" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+      
+ <img align="center" alt="Wordpress" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" />
+      
+ <img align="center" alt="Amazon Web Service" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+      
+ <img align="center" alt="Google Cloud" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" />
+      
+ <img align="center" alt="VSCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 
 
 
