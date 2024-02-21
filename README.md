@@ -3,8 +3,6 @@
 
 - 💼 Recentemente não trabalho, porém já faço mini-projetos com as coisas que eu estudo<br>
      *I don't work recently, but I already do mini-projects with something I'm studying*🎋
-- 📚 Estudando Laravel... <br>
-     *Studying Laravel...*
 - 💬 0 problemas em vir conversar comigo! <br>
      *You can come to talk with me anytime!* 🍇
 <div align="center">
