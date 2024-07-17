@@ -1,6 +1,7 @@
 ## Olá!! Bem-vindo(@) ao meu perfil 🍁
 
-
+- ✈️ Estudando C e C++
+  *Studying C and C++*
 - 💼 Recentemente não trabalho, porém já faço mini-projetos com as coisas que eu estudo<br>
      *I don't work recently, but I already do mini-projects with something I'm studying*🎋
 - 💬 0 problemas em vir conversar comigo! <br>
