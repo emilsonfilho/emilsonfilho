@@ -60,6 +60,10 @@
  <img align="center" alt="Arduino" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 
  <img align="center" alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+ <img align="center" alt="Linux" height="50" width="50" src="https://devicon-website.vercel.app/api/c/original.svg" />
+
+ <img align="center" alt="Linux" height="50" width="50" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />
           
           
 
